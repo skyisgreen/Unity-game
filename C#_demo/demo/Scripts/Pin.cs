@@ -46,7 +46,7 @@ public class Pin : MonoBehaviour {
             }
         }
 	}
-
+ 
     public void StartFly()
     {
         isFly = true;
